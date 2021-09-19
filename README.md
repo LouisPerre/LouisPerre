@@ -22,7 +22,7 @@ Just a little developer who does shit
 ## :iphone: The fastest way to contact me :mailbox:
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-LouisPerre-red?style=for-the-badge&logo=LINKEDIN&logoColor=red)](https://www.linkedin.com/in/louis-perrenot/)
-[![Email](https://img.shields.io/badge/Email-LouisPerre-red?style=for-the-badge&logo=GMAIL&logoColor=red)](louis.perrenot@edu.devinci.fr)
+[![Email](https://img.shields.io/badge/Email-LouisPerre-red?style=for-the-badge&logo=GMAIL&logoColor=red)](mailto:louis.perrenot@edu.devinci.fr)
 
 ## :notes: Music currently listening :notes:
 
