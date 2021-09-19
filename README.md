@@ -1,6 +1,6 @@
 ![Worry](img/211833.gif)
 # What are you doing here ?
-Just a little developer who does shit
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=750&height=85&lines=Just+a+developer+who+does+shit%2C;+read+a+lot+and+watch+a+lot+of+anime.+;Currently+student+in+France+to+finally+be+replaced+by+an+AI.)](https://git.io/typing-svg)
 
 ## :speaker: Language and technology that I know :computer:
 
@@ -24,7 +24,9 @@ Just a little developer who does shit
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-LouisPerre-red?style=for-the-badge&logo=LINKEDIN&logoColor=red)](https://www.linkedin.com/in/louis-perrenot/)
 [![Email](https://img.shields.io/badge/Email-LouisPerre-red?style=for-the-badge&logo=GMAIL&logoColor=red)](mailto:louis.perrenot@edu.devinci.fr)
 
+***
 ## :notes: Music currently listening :notes:
+***
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2tefb4zbzyubb7uy44n6yd3yd&cover_image=true&theme=default)
 
