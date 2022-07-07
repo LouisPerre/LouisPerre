@@ -1,6 +1,6 @@
 ![Worry](img/211833.gif)
 # What are you doing here ?
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=750&height=85&lines=Just+a+developer+who+does+shit%2C;+read+a+lot+and+watch+a+lot+of+anime.+;Currently+student+in+France+to+finally+be+replaced+by+an+AI.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=750&height=85&lines=Just+a+developer+learning%2C;+read+a+lot+and+watch+a+lot+of+anime.+;Currently+student+in+France+to+finally+be+replaced+by+an+AI.)](https://git.io/typing-svg)
 
 ## :speaker: Language and technology that I know :computer:
 
@@ -8,16 +8,20 @@
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)
+![SYMFONY](https://img.shields.io/badge/SYMFONY-black?style=for-the-badge&logo=SYMFONY)
+
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-lightgrey?style=for-the-badge&logo=PYTHON)
 ![MYSQL](https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=MYSQL)
 
 ![GIT](https://img.shields.io/badge/GIT-darkgreen?style=for-the-badge&logo=GIT)
+![GITLAB](https://img.shields.io/badge/GITLAB-darkgreen?style=for-the-badge&logo=GITLAB)
 
 ![ILLUSTRATOR](https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=FIGMA)
 ![PHOTOSHOP](https://img.shields.io/badge/XD-black?style=for-the-badge&logo=Adobe-XD)
 ![XD](https://img.shields.io/badge/ILLUSTRATOR-black?style=for-the-badge&logo=Adobe-ILLUSTRATOR)
 ![FIGMA](https://img.shields.io/badge/PHOTOSHOP-black?style=for-the-badge&logo=Adobe-PHOTOSHOP)
+![PHPSTORM](https://img.shields.io/badge/PHPSTORM-black?style=for-the-badge&logo=PHPSTORM)
 
 ## :iphone: The fastest way to contact me :mailbox:
 
